@@ -2,7 +2,7 @@ Here 3 use cases described:
 
 - creating 'hello world' and add(3, 5) functions on C++ side, and envoking it on JS side (functionexample)
 - creating a classwith two methods on C++ side and creating a class example on JS side (classexample),
-- based on previous case, passing this object (class example) back to C++ side, create a new class instance, and envoking its method (classexample).
+- based on previous case, passing this object (class example) back to C++ side, create a new class instance (based on previous one), and envoke its method back on JS side (classexample).
 
 Hints come in handy:
 
